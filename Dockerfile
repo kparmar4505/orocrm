@@ -3,7 +3,7 @@ USER www-data
 
 # HTTPS or SSH
 # If you want to use ssh don't forget to provide ssh key via build arg directive
-ARG GIT_URI="https://github.com/orocrm/crm-application.git"
+ARG GIT_URI="https://github.com/kparmar4505/aakroncrm.git"
 
 # branch name or tag 
 # master - for master branch
