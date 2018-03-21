@@ -1,3 +1,5 @@
+Code is copied from https://github.com/djocker/orocrm for testing purpose only
+
 # OROCRM Docker Image
 [![GitHub Tag](https://img.shields.io/github/tag/djocker/orocrm.svg?maxAge=3600)](https://hub.docker.com/r/djocker/orocrm/tags/) 
 [![Layers](https://images.microbadger.com/badges/image/djocker/orocrm.svg?maxAge=3600)](https://microbadger.com/images/djocker/orocrm "Get your own image badge on microbadger.com") 
