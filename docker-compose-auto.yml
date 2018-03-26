@@ -21,7 +21,7 @@ mail:
     - maildomain=localhost
     - smtp_user=user@localhost:password
 minion:
-  image: djocker/oromono
+  image: kishor05/oromono
   links:
     - "db"
     - "mail"
