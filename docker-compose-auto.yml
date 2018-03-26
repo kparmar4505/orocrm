@@ -1,7 +1,7 @@
 data:
-  image: kparmar05/orodata
+  image: kishor05/orodata
 source_code:
-  image: kparmar05/orocrm
+  image: kishor05/orocrm
 db:
   image: mysql:5.5
   expose:
