@@ -2,10 +2,10 @@ version: "2"
 services:
   data:
     container_name: app_data
-    image: djocker/orodata
+    image: kishor05/orodata
   source_code:
     container_name: app_source
-    image: djocker/app
+    image: kishor05/app
   db:
     container_name: app_db
     image: mysql:5.5
@@ -36,7 +36,7 @@ services:
           - mail
   minion:
     container_name: app_minion
-    image: djocker/oromono
+    image: kishor05/oromono
     links:
       - db
       - mail
