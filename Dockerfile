@@ -1,4 +1,4 @@
-FROM kparmar05/orobase
+FROM kishor05/orobase
 USER www-data
 
 # HTTPS or SSH
