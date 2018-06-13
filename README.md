@@ -16,7 +16,7 @@ This image is used as part of docker stack (see compose configs).
 
 ## Usage
 
-### OroCRM stack with automated installation
+#### OroCRM stack with automated installation
 
 Run containers in attached mode
 
